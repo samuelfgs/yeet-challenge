@@ -10,6 +10,10 @@ The following features are available.
   - List of transactions per users
   - Statistics for recent bets from an user
 
+## Quick demo
+
+https://drive.google.com/file/d/1hhKTiQVI5uqSQISGF-ZcKEwLYn_Ppa_c/view
+
 ## Stack and external libraries
 
 - **Backend**: Node.js with Express
